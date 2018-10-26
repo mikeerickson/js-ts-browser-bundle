@@ -1,0 +1,27 @@
+{
+  "name": "js-ts-browser-bundle",
+  "version": "0.0.1",
+  "description": "JavaScript, TypeScript in Browser and Bundled",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeerickson/js-ts-browser-bundle.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "browser",
+    "bundle",
+    "parcel",
+    "webpack"
+  ],
+  "author": "Mike Erickson <codedungeon@gmail.com> (https://github.com/mikeerickson)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeerickson/js-ts-browser-bundle/issues"
+  },
+  "homepage": "https://github.com/mikeerickson/js-ts-browser-bundle#readme"
+}
