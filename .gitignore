@@ -1,0 +1,6 @@
+NOTES.md
+node_modules/
+sandbox/
+dist/
+.cache/
+.vscode/

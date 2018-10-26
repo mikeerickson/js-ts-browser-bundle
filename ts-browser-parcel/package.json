@@ -1,0 +1,21 @@
+{
+  "name": "ts-browser-bundle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mike Erickson <codedungeon@gmail.com> (https://github.com/mikeerickson)",
+  "license": "MIT",
+  "dependencies": {
+    "@types/base-64": "0.1.2",
+    "@types/utf8": "2.1.6",
+    "base-64": "0.1.0",
+    "utf8": "3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "3.1.3"
+  }
+}

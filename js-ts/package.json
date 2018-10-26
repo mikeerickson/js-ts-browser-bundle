@@ -1,0 +1,21 @@
+{
+  "name": "js-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mike Erickson <codedungeon@gmail.com> (https://github.com/mikeerickson)",
+  "license": "MIT",
+  "dependencies": {
+    "base-64": "0.1.0",
+    "utf8": "3.0.0"
+  },
+  "devDependencies": {
+    "@types/base-64": "0.1.2",
+    "@types/node": "10.12.0",
+    "@types/utf8": "2.1.6"
+  }
+}
